@@ -1,4 +1,4 @@
-package com.yourproject.entities;
+package com.wellsfargo.counselor.entity;
 
 import javax.persistence.*;
 
